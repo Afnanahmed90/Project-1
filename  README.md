@@ -18,14 +18,22 @@ What is the game about?
 # README 
 
 
-- As a user :
+- 
 
+
+
+-List technologies:
+(java script, jquery , and HTML , Css)
+
+-As a user :
  you should be able to start a new connect 4 game.
  you can  see a message after each turn for if I win. 
  you can see  a message when I win, lose or tie
 
-
-
+-I created the table first and then i started to do the coes some of them works as functions , jquery and if statement and I used the other with loop. 
+- unsolved problems that i will fix was the css I want to make it professional game. 
+-IS solved for the winner part one by one each time I tried new method. 
+- some of my favorite functions was the winner and tie part.
 
 https://afnanahmed90.github.io/Project-1/
 
